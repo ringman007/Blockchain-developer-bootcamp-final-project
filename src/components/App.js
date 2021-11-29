@@ -110,7 +110,7 @@ class App extends Component {
       const address = networkData.address
       const token = new web3.eth.Contract(abi, address)
       const memoryToken = new web3.eth.Contract(abi,address)
-      this.setState({ memoryToken })
+      this.setState({ memoryToken: memoryToken })
       console.log(this.state.memoryToken)
       this.setState({ token: token })
       const totalSupply = await token.methods.totalSupply().call()
