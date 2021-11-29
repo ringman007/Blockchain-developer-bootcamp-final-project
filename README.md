@@ -25,6 +25,7 @@ https://adoring-almeida-2dcdf6.netlify.app/
 - Run local testnet in port `8545` with an Ethereum client, e.g. Ganache
 - Run tests in Truffle console: `test`
     NOTE: Not all tests are passing yet, but more than 5 units pass their tests. 
+          (new to coding and it's been quite a challange!)
 
 ### Frontend
 
