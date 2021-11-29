@@ -47,7 +47,7 @@ Player needs to pay to play before being able to trigger the mint function.
 1. Enter website
 2. Connect with Metamask
 3. Pay fee to start game (cards will randomize once fee is paid)
-4. Match two tiles (on ropsten hosted via netflify the flipcard function does not trigger at times) 
+4. Match two tiles NOTE: on ropsten hosted via netflify the flipcard function does not trigger at times - if that happens just click a couple more tiles (also happens in the screencast recording)
 6. Metamasks opens automatically to ask player to mint their match
 7. NFT is sent to player, players token count increases by one and the UI also displays what NFT the player minted.
 
