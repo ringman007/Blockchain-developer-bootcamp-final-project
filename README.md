@@ -33,7 +33,7 @@ https://adoring-almeida-2dcdf6.netlify.app/
 
 ## Public Ethereum wallet for certification:
 
-`0x0`
+`0x42176A6f951bD9327eCC515138703eF006533986`
 
 ## Project description
 
