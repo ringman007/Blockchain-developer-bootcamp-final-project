@@ -164,7 +164,7 @@ class App extends Component {
       allowedToPlay: false,
       mintCount: 0,
       contract: '',
-      memoryToken: '',
+      memoryToken: null,
 
     }
     this.startGame = this.startGame.bind(this)
