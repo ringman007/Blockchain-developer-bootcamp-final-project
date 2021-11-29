@@ -14,19 +14,22 @@ https://adoring-almeida-2dcdf6.netlify.app/
 - Npm install
 - React
 
+1. clone repository in empty directory 
+2. run in console: `npm install` 
+3. run `ganache-cli` in new terminal
+
 
 ### Contracts
 
-- Run `npm install` in project root to install Truffle build and smart contract dependencies
+- run `truffle test'
 - Run local testnet in port `8545` with an Ethereum client, e.g. Ganache
 - Run tests in Truffle console: `test`
     NOTE: Not all tests are passing yet, but more than 5 units pass their tests. 
 
 ### Frontend
 
-- `cd rootfolder`
-- `npm install`
 - `npm run start`
+- Open localhost:3000
 
 ## Screencast link
 
